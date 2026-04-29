@@ -1,0 +1,48 @@
+h1{color: rgb(252, 252, 252);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body{background-image:url(https://i.pinimg.com/736x/3e/e6/5e/3ee65ea27521621d7085d13e358e8c2e.jpg) ;
+background-size:cover;
+background-repeat: no-repeat;
+}
+
+
+p{color: rgb(255, 255, 255);
+
+}
+
+.bodomi_moda_fuente{
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight:500px;
+  font-style: normal;
+}
+
+.card{
+    background-color: coral;
+    width: 500px;
+    margin: 100px;
+}
+
+.card_foto{
+    max-width:100%;
+    
+}
+
+ .gogo_aasaa{color: rgb(255, 255, 255);
+
+
+ }
+
+.cajaa_perfume{
+    background-color: crimson;
+    width: 400px;
+}
+
+
+.caja_imag{
+
+    max-width: 100%;
+}
