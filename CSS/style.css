@@ -21,9 +21,10 @@ p{color: rgb(255, 255, 255);
 }
 
 .card{
-    background-color: coral;
-    width: 500px;
-    margin: 100px;
+    background-color: rgb(255, 176, 176);
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
 }
 
 .card_foto{
@@ -37,12 +38,105 @@ p{color: rgb(255, 255, 255);
  }
 
 .cajaa_perfume{
-    background-color: crimson;
+    background-color: rgb(255,176,176);
     width: 400px;
+    max-width: 100%;
+    margin:10px;
+    padding: 20px;
 }
 
 
 .caja_imag{
 
     max-width: 100%;
+}
+
+.sunsol{
+    background-color:rgb(255,176,176);
+    width:400px;
+    max-width:100%;
+    margin: 10px;
+    text-align: left;
+    color: rgb(0, 3, 1);
+    padding: 20px;
+}
+    
+
+    
+h2{
+ color: white;
+}
+
+
+.soll{
+    max-width:100% ;
+
+}
+
+.sirdior{
+
+    background-color: rgb(255, 176, 176);
+    width: 400px;
+    margin:10px;
+    padding: 20px;
+}
+
+.imggcris{
+    max-width: 100%;
+}
+
+.qona{background-color: rgb(255, 176, 176);
+    width:400px;
+    margin: 10px;
+    padding: 20px;
+
+}
+
+.bb{
+
+    max-width: 100%;
+}
+
+.bambi{
+    background-color: rgb(255, 176, 176);
+    width: 400px;
+    margin: 10px;
+    padding:20px;
+
+}
+
+.imaginn{
+
+    max-width: 100%;
+}
+
+.fftir{
+    background-color: rgb(255, 176, 176);
+    width: 400px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.coracora{
+
+    max-width: 100%;
+}
+
+
+footer{
+    background-color: brown;
+}
+
+
+.lala_tutu{
+    color: black;
+}
+
+.contenedor_padre{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1000px;
+    margin: 0 auto;
 }
