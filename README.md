@@ -1,0 +1,154 @@
+[index.html](https://github.com/user-attachments/files/27560059/index.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <title>Perfumes kisses</title>
+    
+</head>
+<body>
+      <header>
+        <h1 class="bodomi_moda_fuente">Besos perfumados</h1>
+        <nav> 
+             <ul>
+
+                  <li> </li>
+
+
+
+            </ul>
+        </nav>
+
+    </header>
+       <h2 class="gogo_aasaa">La perfumería: un arte oculto y único</h2>
+   
+
+            <p class="bodomi_moda_fuente"> Podemos sentir mayor preferencia por unos perfumes que por otros pero es 
+               indiscutible que los olores forman parte de cada minuto vivido, por mencionar los 
+                más satisfactorios tenemos ese rico aroma de café o chocolate caliente recién preparado, el olor a flores 
+                frescas, el aroma tan peculiar que tiene un libro nuevo, el olor a comida recién hecha, el olor de las butacas en el cine
+                o en el teatro, el aroma a viento, ese resoplido fresco que te acaricia la 
+                cara y te revolotea los cabellos por el aire, y está ese perfume de la persona que ocupa un lugar especial
+                 y privilegiado en tu corazón. Seguramente existen millones de aromas más para nombrar, cada uno único a su manera y con un significado diferente para cada persona.
+                 
+               
+               El olfato es esencial para todos los animales junto con el tacto, la visión y los demás sentidos. Pero no sólo es uno de los sentidos, es más que eso, es la evocación de recuerdos y emociones, nos hace estar presente en cada momento de nuestra
+             vida llendo del cálido aroma de una comida recién hecha hasta el sofocante olor del humo. 
+             Pasando del placer hacía la repugnancia.
+            Pero no me quiero centrar en datos cientificos u olores feos, estoy acá para presentarles
+             el arte del perfume.
+             </p>
+
+        <p class="bodomi_moda_fuente"> Lorem ipsum, dolor sit amet consectetur adipisicing
+             elit. Tempora reprehenderit quaerat omnis quam debitis id dolorum! 
+             Eaque, iure. Non voluptas impedit ipsa voluptatibus incidunt, maxime 
+             harum soluta omnis sed facere. </p>
+            
+        <h3>subtitulo</h3>
+
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing 
+                elit. Aliquid, tenetur totam, perferendis asperiores 
+                suscipit quaerat cumque rem doloribus perspiciatis a iste!
+               Culpa dolor iste eaque eum sit quisquam obcaecati sint.</p>
+
+
+    <h2>Perfumes </h2>
+    <p> lorem ipsum sobre perfumes
+    <section>
+
+     <div class="contenedor_padre">
+                   <h2>Nuestro catalogo</h2>
+
+
+      <div class="card">
+          <h3>Chanel N°5</h3>
+                         <img class="card_foto" src="https://i.pinimg.com/736x/30/68/43/3068433c5201f7e45675002f77c6dba4.jpg" alt="N5 chanel">
+
+                         <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum!</p>
+
+
+               
+          </div>
+
+          <div class="cajaa_perfume">
+               <h3>Valentino</h3>
+                         <img class="caja_imag" src="https://i.pinimg.com/1200x/d9/34/8a/d9348a7690f7bc1c5ca713d840b23e8d.jpg" alt="Casa Valentino">
+                         <p class="lala_tutu"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum!</p>
+
+
+
+          </div>
+
+          <div class="sunsol"> 
+
+               <h3>Sun parfum</h3>
+                <img class="soll" src="https://i1-c.pinimg.com/1200x/4b/2b/fc/4b2bfc212f2aef5d9f825fba8bf30783.jpg" alt="ambar deluxe">
+                <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum!</p>
+
+          </div>
+          
+     </div>
+      
+     <div class="contenedor_padre">
+             <div class="sirdior">
+               <h3> Agua da parfum</h3>
+                 
+                  <img class="imggcris" src="https://i1-c.pinimg.com/1200x/67/b3/97/67b3972712bc2403429306d881be6cc3.jpg" alt="christian dior">
+                  <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum!</p>
+             </div>
+
+
+          <div class="qona">
+               <h3>La seine de mi</h3>
+                <img class="bb" src="https://i.pinimg.com/736x/71/6d/f4/716df4e212ff73bdbb97491f11d8d272.jpg" alt="rosa rosa">
+               
+                <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates modi repellendus perspiciatis.</p>
+
+
+          </div>
+         
+         <div class="bambi">
+          <h3> Her majesty</h3>
+
+          <img class="imaginn" src="https://i.pinimg.com/736x/2a/8f/a6/2a8fa61a50ac7c3db3f0d5c19aeb2ed6.jpg" alt="deer">
+          <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum!</p>
+
+
+         </div>
+          
+         <div class="fftir">
+          <h3> Ma bell</h3>
+          <img class="coracora" src="https://i1-c.pinimg.com/736x/2e/c8/55/2ec85598b6b22bcb5ff1cf0d1748925c.jpg" alt="heart boom">
+          <p class="lala_tutu">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quae corporis iusto exercitationem in adipisci asperiores sint sequi, id rem a commodi quia rerum! </p>
+
+
+         </div>
+          
+
+
+
+
+
+     </div>
+          
+  
+        
+
+
+    </section>
+         
+        
+</body>
+
+<footer>
+
+     contactanos a besos perfumados
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nam voluptatem veritatis placeat necessitatibus, quibusdam est odio quaerat inventore maxime expedita animi asperiores
+           aliquid harum, repellendus blanditiis quia? Quia, atque.</p>
+</footer>
+</html>
